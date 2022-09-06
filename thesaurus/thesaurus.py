@@ -17,7 +17,7 @@ from sentence_transformers import SentenceTransformer
 
 output_notebook()
 
-path = '../data/'
+path = 'data/'
 
 MAX_LENGTH = 50000000
 LEMMATIZATION_THRESHOLD = 500000
